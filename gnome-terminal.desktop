@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=gnome-terminal -- bash -c "/home/arthur/Projects/welcomingKoans/koans.sh; exec bash"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_NG]=Terminal
+Name=Terminal
+Comment[en_NG]=Show Zen Koan On Startup
+Comment=Show Zen Koan On Startup
