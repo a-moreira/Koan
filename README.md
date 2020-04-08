@@ -4,7 +4,7 @@ and randomly print one of them to stdout as a welcoming message at startup.
 
 ### Steps 
 ```
-$ cd ~/welcomingKoans
+$ cd /path/to/this/repo
 $ chmod +x koans.sh
 $ cp gnome-terminal.desktop ~/.config/autostart
 ```
