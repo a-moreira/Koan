@@ -1,7 +1,7 @@
 library("htm2txt")
 library("stringr")
 
-setwd("~/Projects/welcomingKoans/koans")
+setwd("/koans")
 lines = readLines("../links.txt")
 
 for (i in 1:length(lines)) {
