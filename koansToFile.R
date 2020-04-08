@@ -1,6 +1,4 @@
-library("rvest")
 library("htm2txt")
-library("textclean")
 library("stringr")
 
 setwd("~/Projects/welcomingKoans/koans")
