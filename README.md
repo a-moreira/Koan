@@ -9,7 +9,7 @@ First, go to the gnome-terminal.desktop file and change the path to where your r
 
 ### Steps 
 ```
-$ cd ~/welcomingKoans
+$ cd /path/to/this/repo
 $ chmod +x koans.sh
 $ cp gnome-terminal.desktop ~/.config/autostart
 ```
