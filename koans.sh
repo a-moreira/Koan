@@ -1,6 +1,8 @@
 #!/bin/bash
 
-cd ~/Projects/welcomingKoans/koans
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
+
+cd "$DIR/koans"
 
 f=$(ls | shuf -n 1)
 
