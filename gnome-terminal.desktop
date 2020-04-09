@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Exec=gnome-terminal -- bash -c "/home/arthur/Projects/welcomingKoans/koans.sh; exec bash"
+Exec=gnome-terminal -- bash -c "~/Projects/welcomingKoans/koans.sh; exec bash"
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true
