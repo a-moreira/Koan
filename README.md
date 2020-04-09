@@ -1,5 +1,5 @@
-# welcomingKoans
-Shell scripts to print welcoming Zen Koans from http://www.ashidakim.com/zenkoans/ to stdout after login.
+# welcomeKoans
+Shell scripts to print Zen Koans from http://www.ashidakim.com/zenkoans/ as welcome messages to stdout after login.
 
 
 ### Steps 
