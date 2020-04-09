@@ -1,9 +1,10 @@
 # welcomingKoans
-These Bash scripts print welcoming Zen Koans from http://www.ashidakim.com/zenkoans/ to stdout after login.
+Shell scripts to print welcoming Zen Koans from http://www.ashidakim.com/zenkoans/ to stdout after login.
 
 
 ### Steps 
-First, update the path to your directory in the gnome-terminal.desktop file 
+First, update the path to your directory in the gnome-terminal.desktop file.
+
 Then:
 ```
 $ chmod +x koans.sh
