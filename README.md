@@ -3,7 +3,7 @@ Shell scripts to print welcoming Zen Koans from http://www.ashidakim.com/zenkoan
 
 
 ### Steps 
-First, update the path to your directory in `gnome-terminal.desktop`
+First, set the correct path to `koans.sh` in the third line of `gnome-terminal.desktop` file
 
 Then:
 ```
