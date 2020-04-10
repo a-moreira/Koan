@@ -14,4 +14,4 @@ $ bash prepare.sh
 Log out and log in back again to see a Koan
 
 
-Currently for Ubuntu 18.04 only
+Currently for Ubuntu 18.04 with GNOME only
