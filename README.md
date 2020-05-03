@@ -1,5 +1,5 @@
 # welcomeKoans
-Shell scripts to print Zen Koans from http://www.ashidakim.com/zenkoans/ as welcome messages to a gnome-terminal after startup.
+Shell scripts to print Zen Koans from http://www.ashidakim.com/zenkoans/ as welcome messages to a gnome-terminal on startup.
 
 
 ```
@@ -26,7 +26,7 @@ unless you first empty your cup?"
 
 
 ### Steps 
-First, set the correct path to `koans.sh` in the third line of the `gnome-terminal.desktop` file
+First, set the correct path to `koans.sh` in line three of the `gnome-terminal.desktop` file
 
 Then:
 ```
