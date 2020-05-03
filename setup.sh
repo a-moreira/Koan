@@ -6,4 +6,4 @@ DEST="$HOME/.config/autostart"
 
 FILENAME="gnome-terminal.desktop"
 
-cd $DIR; chmod +x "$FILENAME"; cp "$FILENAME" $DEST
+cd $DIR; chmod +x "koans.sh"; chmod +x "$FILENAME"; cp "$FILENAME" $DEST

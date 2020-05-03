@@ -30,20 +30,19 @@ First, set the correct path to `koans.sh` in line three of the `gnome-terminal.d
 
 Then:
 ```
-$ chmod +x koans.sh
 $ bash setup.sh
 ```
 
-Log out and log in back again to see a Koan
+Log out and log back in to see a Koan
 
 
 #### Possible issues
-If nothing happens, there's a chance you don't have the `$HOME/.config/autostart` directory. If that's the case, do
+If it doesn't show up, you probably don't have the `$HOME/.config/autostart` directory. If that's the case, do
 ```
 $ cd ~/.config
 $ mkdir autostart
 ``` 
-and redo the steps above.
+and run the `setup.sh` file again.
 
 
 Currently for Ubuntu 18.04 with GNOME only
