@@ -19,17 +19,14 @@ restrain himself. "It is overfull. No more will go in!"
 "Like this cup," Nan-in said, "you are full of your
  own opinions and speculations. How can I show you Zen 
 unless you first empty your cup?"
-
-
 ```
 
 
+### Setup 
+First, open the file `koan` in your favorite text editor and set the correct path to this repo in the $DIR variable.
 
-
-### Steps 
-First, open the file `koan` and set the correct path to this repo.
-
-Then:
+Then simply
 ```
 $ bash setup.sh
 ```
+and you're good to go.
