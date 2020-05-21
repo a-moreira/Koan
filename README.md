@@ -1,7 +1,9 @@
 # Koan
 Get a Zen Koan from http://www.ashidakim.com/zenkoans/
 
+
 ```
+$ koan
 
 1. A Cup of Tea
 
