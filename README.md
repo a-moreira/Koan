@@ -1,6 +1,5 @@
-# welcomeKoans
-Shell scripts to print Zen Koans from http://www.ashidakim.com/zenkoans/ as welcome messages to a gnome-terminal on startup.
-
+# Koan
+Get a Zen Koan from http://www.ashidakim.com/zenkoans/
 
 ```
 
@@ -26,24 +25,9 @@ unless you first empty your cup?"
 
 
 ### Steps 
-First, set the correct path to `koans.sh` in line three of the `gnome-terminal.desktop` file
+First, open the file `koan` and set the correct path to this repo.
 
 Then:
 ```
 $ bash setup.sh
 ```
-
-Log out and log back in to see a Koan
-
-
-#### Possible issues
-If it doesn't show up, you probably don't have the `$HOME/.config/autostart` directory. If that's the case, do
-```
-$ cd ~/.config
-$ mkdir autostart
-``` 
-and run the `setup.sh` file again.
-
-
-Currently for Ubuntu 18.04 with GNOME only
-

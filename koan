@@ -1,0 +1,9 @@
+#!/bin/bash
+
+DIR="/absolute/path/to/Koan"
+
+cd "$DIR/koans"
+
+f=$(ls | shuf -n 1)
+
+printf "$(cat $f)\n\n\n"
