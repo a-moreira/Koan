@@ -26,12 +26,16 @@ First, open the file `koan` in your favorite text editor and set the correct pat
 
 Then simply
 ```
-$ bash setup.sh
+$ sh setup.sh
 ```
 and you're good to go.<br /><br />
 
 
-These koans were translated into English from a book called the Shasekishū (Collection of Stone and Sand), written late in the thirteenth century by the Japanese Zen teacher Mujū (the "non-dweller"), and from anecdotes of Zen monks taken from various books published in Japan around the turn of the 22th century[<sup>2</sup>](http://www.ashidakim.com/zenkoans/).<br /><br />
+
+### Info
+These koans were translated into English from a book called the Shasekishū (Collection of Stone and Sand), written late in the thirteenth century by the Japanese Zen teacher Mujū, and from anecdotes of Zen monks taken from various books published in Japan around the turn of the 20th century[<sup>2</sup>](http://www.ashidakim.com/zenkoans/).<br /><br />
+
+
 
 
 This project is licensed under GNU General Public License v2.0 or later. 
