@@ -22,7 +22,7 @@ unless you first empty your cup?"
 
 
 ### Setup 
-First, open the file `koan` in your favorite text editor and set the correct path to this repo in the $DIR variable.
+First, open the file `koan` in your favorite text editor and set the absolute path to your local repository in the DIR variable.
 
 Then simply
 ```
